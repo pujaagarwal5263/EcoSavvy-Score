@@ -17,7 +17,7 @@ const HomePage = () => {
       {/* Welcome Section */}
       <Box textAlign="center" mb={8}>
         <Heading as="h1" mb={2}>
-          Welcome to Ecosavvy
+          Welcome to Carbon-Track
         </Heading>
         <Text fontSize="lg">Your Guide to Sustainable Living</Text>
       </Box>
@@ -36,13 +36,13 @@ const HomePage = () => {
 
       {/* Introduction Paragraph */}
       <Text mb={6}>
-        Ecosavvy, your comprehensive carbon footprint calculator, empowers
+        CarbonTrack, your comprehensive carbon footprint calculator, empowers
         individuals to gauge and understand their environmental impact. By
-        seamlessly quantifying daily activities and lifestyle choices, Ecosavvy
+        seamlessly quantifying daily activities and lifestyle choices, CarbonTrack
         provides insights into carbon emissions, encouraging users to make
         informed decisions for a more sustainable and eco-friendly lifestyle.
         Start your journey towards reducing your carbon footprint and
-        contributing to a greener planet with Ecosavvy today!{" "}
+        contributing to a greener planet with CarbonTrack today!{" "}
       </Text>
       <br />
       {/* What is Ecosavvy Section */}
@@ -94,24 +94,24 @@ const HomePage = () => {
           ml={{ md: 4 }}
         >
           <Heading as="h2" size="lg" mb={2} textAlign="center">
-            Why Choose Ecosavvy?
+            Why Choose CarbonTrack?
           </Heading>
           <Text>
-            Choose Ecosavvy for a transformative experience in sustainable
+            Choose CarbonTrack for a transformative experience in sustainable
             living. Our user-friendly carbon footprint calculator empowers you
             to make informed choices, helping reduce your environmental impact.
-            Ecosavvy offers personalized recommendations, actionable insights,
+            CarbonTrack offers personalized recommendations, actionable insights,
             and a supportive community committed to eco-conscious living. With
             cutting-edge technology and a passion for sustainability, we make it
             easy for you to adopt a greener lifestyle and contribute to a
-            healthier planet. Join Ecosavvy today to be a part of the movement
+            healthier planet. Join CarbonTrack today to be a part of the movement
             towards a more sustainable and environmentally conscious world.
           </Text>
         </Box>
       </Box>
     </Box>
     <Box backgroundColor="white" color="green.700" py={4} textAlign="center" fontWeight="bold">
-        Made with 💚 by Ecosavvy
+        Made with 💚 by CarbonTrack
       </Box>
       </>
   );

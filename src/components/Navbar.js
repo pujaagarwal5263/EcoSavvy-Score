@@ -30,7 +30,7 @@ const Navbar = () => {
         <Flex maxW="6xl" mx="auto" justify="space-between" align="center" p={4} as="nav">
           <Flex align="center">
             <Text fontWeight="bold" fontSize="lg" mr={4} color="green.700">
-              EcoSavvy 🌱
+            CarbonTrack 🌱
             </Text>
           </Flex>
           <Flex align="center">

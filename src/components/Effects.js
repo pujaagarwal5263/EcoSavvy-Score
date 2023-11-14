@@ -54,7 +54,7 @@ const Effects = () => {
       </Box>
 
       <Box backgroundColor="white" color="green.700" py={4} textAlign="center" fontWeight="bold">
-        Made with 💚 by Ecosavvy
+        Made with 💚 by CarbonTrack
       </Box>
     </>
   );
